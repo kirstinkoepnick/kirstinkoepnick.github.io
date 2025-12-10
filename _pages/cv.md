@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)](/files/KirstinKoepnickCV.pdf)  
+
 # Education
 - **Ph.D. in Applied Mathematics**, Harvard University, Cambridge MA (2021–Present)  
   Working with Eli Tziperman on climate dynamics and ice–atmosphere–ocean interactions.
