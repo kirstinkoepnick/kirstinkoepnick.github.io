@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My research focuses on **climate dynamics and variability** across the atmosphere, ocean, and cryosphere. I use a combination of theory, numerical modeling, climate model analysis (CESM2, CMIP, PMIP, iTRACE), and simple dynamical models to understand how ice sheets, sea ice, and large-scale modes such as ENSO and the QBO interact with the broader climate system.
+My research focuses on **climate dynamics and variability** across the atmosphere, ocean, and cryosphere. I use a combination of theory, numerical modeling, climate model analysis, and simple dynamical models to understand how ice sheets, sea ice, and large-scale modes such as ENSO and the QBO interact with the broader climate system.
 
 A common thread in my work is the use of **model hierarchies**: pairing complex climate model output with idealized and conceptual models to isolate mechanisms, test hypotheses, and distinguish signal from noise in a highly variable climate system.
 
@@ -81,8 +81,8 @@ These projects connect high-latitude processes to longer-term evolution of ice s
 
 Across these projects, I use:
 
-- **Climate model simulations**: for my paleoclimate research, I run CESM2 with CAM5 physics adjusting topography and bathymetry for LGM and 12ka
-- **Climate model analysis:** CESM2, iTRACE, CMIP6 control runs  
+- **Climate model simulations**: for my paleoclimate research, I run CESM2 with CAM5 physics adjusting topography and bathymetry for LGM and 12ka conditions
+- **Climate model analysis:** CESM2, iTraCE, CMIP6 control runs  
 - **Simple and intermediate-complexity models:** conceptual climate and ice-sheet models, stochastic ENSO models  
 - **Numerical modeling:** diffusion and energy-balance models for subsurface temperature and SMB  
 - **Statistical tools:** bootstrapping, surrogate time series, and machine-learning-based classification of westerly wind bursts  
