@@ -59,6 +59,16 @@ This combination of data analysis and theory aims to determine when we can confi
 
 I am also interested in how **sea-ice variability** interacts with ice-sheet and ice-sheet–adjacent climates.
 
+<figure style="float:right; width:40%; max-width:300px; margin:0 0 0.5rem 2rem; text-align:center;">
+
+  <img src="/images/seaice_smb_schematic.jpeg" alt="sea ice smb schematic" style="width:100%; height:auto;">
+
+  <figcaption style="font-size:0.75em; color:#666; margin-top:0.25rem;">
+    How seaice variability might affect SMB (of GrIS). Created by Kirstin Koepnick.
+  </figcaption>
+
+</figure>
+
 - I study how changes in **Arctic sea ice** affect the **surface mass balance of the Greenland and Laurentide Ice Sheets**, focusing on the competing roles of insulating sea ice, open-ocean heat fluxes, and atmospheric circulation.
 - Using idealized experiments and simple energy-balance and diffusion models, I investigate how **sea-ice–driven anomalies** in surface fluxes and temperature propagate into the snow and firn and influence melt and refreezing.
 
