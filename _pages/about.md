@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/home-banner.jpg" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:1.5rem;">
 
 <figcaption style="text-align:right; font-size:0.8em; color:#666; margin-top:-1rem; margin-bottom:1.5rem;">
-Photo © [Lutz Koepnick]
+Photo by Lutz Koepnick
 </figcaption>
 
 I am a PhD candidate in Applied Mathematics at Harvard University advised by Eli Tziperman. My research focuses on **climate dynamics** across the atmosphere, ocean, and cryosphere, using model hierarchies, numerical modeling, and climate data analysis.
