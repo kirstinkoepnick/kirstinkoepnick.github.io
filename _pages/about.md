@@ -30,6 +30,7 @@ Learn more about my [research](/research/) and [publications](/publications/).
 - Large scale icesheet–atmosphere–ocean coupling
 - Sea ice variability and surface mass balance
 - ENSO–QBO interactions  
-- Paleoclimate and glacial–interglacial cycles  
-- Model hierarchies and nonlinear dynamical systems  
+- Paleoclimate modeling
+- Glacial–interglacial cycles  
+- Model hierarchies and nonlinear dynamics  
 
