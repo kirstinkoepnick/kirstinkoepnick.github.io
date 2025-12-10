@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Kirstin Koepnick"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +9,11 @@ redirect_from:
 ---
 <img src="/images/home_banner.jpg" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:0.5rem;">
 
-<figcaption style="text-align:right; font-size:0.8em; color:#666; margin-top:-1rem; margin-bottom:1.5rem;">
+<figcaption style="text-align:right; font-size:0.8em; color:#666; margin-top:-1rem; margin-bottom:0.5rem;">
 Photo by Lutz Koepnick
 </figcaption>
+
+# Kirstin Koepnick
 
 I am a PhD candidate in Applied Mathematics at Harvard University advised by Eli Tziperman. My research focuses on **climate dynamics** across the atmosphere, ocean, and cryosphere, using model hierarchies, numerical modeling, and climate data analysis.
 
