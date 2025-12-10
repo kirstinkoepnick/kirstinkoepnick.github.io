@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="/images/home_banner.jpg" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:1.5rem;">
+<img src="/images/home_banner.jpg" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:0.5rem;">
 
 <figcaption style="text-align:right; font-size:0.8em; color:#666; margin-top:-1rem; margin-bottom:1.5rem;">
 Photo by Lutz Koepnick
