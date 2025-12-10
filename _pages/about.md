@@ -3,6 +3,9 @@ layout: archive
 permalink: /
 title: "Kirstin Koepnick"
 author_profile: true
+header:
+  overlay_image: /images/banner.jpg
+  overlay_filter: 0.2
 redirect_from:
   - /about/
   - /about.html
