@@ -38,8 +38,17 @@ Together, these projects aim to clarify the conditions under which ice-sheet evo
 
 Another focus of my work is the interaction between **ENSO (El Niño–Southern Oscillation)** and the **Quasi-Biennial Oscillation (QBO)**.
 
-- Using **reanalyses and CMIP6 preindustrial control runs**, I evaluate whether the observed ENSO–QBO correlation is evidence of a robust dynamical coupling or can be explained by statistical coincidence in a short record.
-- I use **bootstrapped null distributions and synthetic time series** to quantify how large an ENSO–QBO correlation would be expected from chance alone.
+<figure style="float:left; width:40%; max-width:300px; margin:0 0 0.5rem 1.5rem; text-align:center;">
+
+  <img src="/images/ENSO_schematic_large.png" alt="ENSO schematic" style="width:100%; height:auto;">
+
+  <figcaption style="font-size:0.75em; color:#666; margin-top:0.25rem;">
+    ENSO schematic. NOAA Climate.gov, based on original provided by Eric Guilyardi.
+  </figcaption>
+
+</figure>
+
+- Using **reanalysis and CMIP6 preindustrial control runs**, I evaluate whether the observed ENSO–QBO correlation is evidence of a robust dynamical coupling or can be explained by statistical coincidence in a short record.
 - In companion work, I develop **simple dynamical models** to test candidate mechanisms, including QBO impacts on wave propagation, tropical upwelling, and ENSO amplitude and timing.
 
 This combination of data analysis and theory aims to determine when we can confidently claim a mechanistic teleconnection versus when apparent relationships are consistent with stochastic variability.
