@@ -23,7 +23,7 @@ repository               : "kirstinkoepnick/kirstinkoepnick.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/website_pic.png"
+  avatar           : "website_pic.png"
   name             : "Kirstin Koepnick"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate investigating climate dynamics across the atmosphere, ocean, and cryosphere, with a focus on model hierarchies and variability across scales."
