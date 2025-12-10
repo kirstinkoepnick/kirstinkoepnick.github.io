@@ -18,7 +18,7 @@ One line of my research examines the **growth and retreat of icesheets** (partic
 
 <figure style="float:right; width:40%; max-width:300px; margin:0 0 0.5rem 1.5rem; text-align:center;">
 
-  <img src="/images/smb-schematic.png" alt="Glacier mass balance schematic" style="width:100%; height:auto;">
+  <img src="/images/smb_schematic.png" alt="Glacier mass balance schematic" style="width:100%; height:auto;">
 
   <figcaption style="font-size:0.75em; color:#666; margin-top:0.25rem;">
     Glacier mass balance and atmospheric circulation. By NASA. From Wikimedia Commons.
