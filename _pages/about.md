@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /
 title: "Kirstin Koepnick"
 author_profile: true
