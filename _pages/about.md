@@ -3,10 +3,6 @@ layout: archive
 permalink: /
 title: "Kirstin Koepnick"
 author_profile: true
-header:
-  overlay_image: /images/home-banner.jpg
-  overlay_filter: 0.2
-  caption: Photo by Lutz Koepnick
 redirect_from:
   - /about/
   - /about.html
