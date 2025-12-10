@@ -7,13 +7,25 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+// Disable dark mode completely
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: light !important;
+  }
+  
+  body {
+    background: #ffffff !important;
+    color: #222222 !important;
+  }
+}
 
 @import
     "vendor/breakpoint/breakpoint",
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+   
     "include/mixins",
     "vendor/susy/susy",
 
