@@ -12,6 +12,8 @@ redirect_from:
 Photo by Lutz Koepnick
 </figcaption>
 
+---
+
 # Kirstin Koepnick
 
 I am a PhD candidate in Applied Mathematics at Harvard University advised by Eli Tziperman. My research focuses on **climate dynamics** across the atmosphere, ocean, and cryosphere, using model hierarchies, numerical modeling, and climate data analysis.
