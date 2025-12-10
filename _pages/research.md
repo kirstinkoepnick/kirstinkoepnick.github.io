@@ -16,7 +16,7 @@ A common thread in my work is the use of **model hierarchies**: pairing complex 
 
 One line of my research examines the **growth and retreat of icesheets** (in particular the Laurentide Ice Sheet (LIS)) across the glacial cycles.
 
-<figure style="float:right; width:40%; max-width:300px; margin:0.5rem 1.5rem 0 0; text-align:center;">
+<figure style="float:right; width:40%; max-width:300px; margin:0 0 0.5rem 2rem; text-align:center;">
 
   <img src="/images/smb_schematic.png" alt="Glacier mass balance schematic" style="width:100%; height:auto;">
 
