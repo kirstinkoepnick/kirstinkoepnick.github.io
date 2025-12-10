@@ -14,7 +14,7 @@ A common thread in my work is the use of **model hierarchies**: pairing complex 
 
 ## 1. Deglaciation and the Laurentide Ice Sheet
 
-One line of my research examines the **growth and retreat of icesheets** (particularyly the Laurentide Ice Sheet (LIS)) across the glacial cycles.
+One line of my research examines the **growth and retreat of icesheets** (in particular the Laurentide Ice Sheet (LIS)) across the glacial cycles.
 
 <figure style="float:right; width:40%; max-width:300px; margin:0 0 0.5rem 1.5rem; text-align:center;">
 
