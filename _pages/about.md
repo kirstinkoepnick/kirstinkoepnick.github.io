@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: About Me
+title: "Kirstin Koepnick"
 author_profile: true
 redirect_from:
   - /about/
