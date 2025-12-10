@@ -15,7 +15,12 @@ A common thread in my work is the use of **model hierarchies**: pairing complex 
 ## 1. Deglaciation and the Laurentide Ice Sheet
 
 One line of my research examines the **growth and retreat of icesheets** (particularyly the Laurentide Ice Sheet (LIS)) across the glacial cycles.
-![SMB schematic](/images/smb-schematic.png){: style="float:right; width:40%; max-width:300px; margin:0 0 1rem 1.5rem;" }
+
+![SMB schematic](/images/smb-schematic.png){: style="float:right; width:40%; max-width:300px; margin:0 0 0.5rem 1.5rem;" }
+
+<p style="float:right; width:40%; max-width:300px; text-align:right; font-size:0.75em; color:#666; margin:-0.5rem 0 1rem 1.5rem;">
+Glacier mass balance and atmospheric circulation. By NASA. From Wikimedia Commons.
+</p>
 
 - Generally, I examine how the **surface mass balance (SMB)** of various ice sheets responds to changes in albedo, temperature, precipitation, and sea ice cover.
 - I compute the SMB of the LIS using the isotope-enabled iTRACE simulation and compare it with mass-loss rates inferred from geophysical reconstructions (e.g., ICE-6G).
