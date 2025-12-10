@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-xx
+Feel free to email me at kirstinkoepnick@g.harvard.edu or message me on LinkedIn
