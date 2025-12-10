@@ -34,7 +34,7 @@ Together, these projects aim to clarify the conditions under which ice-sheet evo
 
 ---
 
-## 2. Pacific Teleconnections: ENSO–QBO interactions and large-Scale variability
+## 2. Pacific Teleconnections: ENSO–QBO interactions and large-scale variability
 
 Another focus of my work is the interaction between **ENSO (El Niño–Southern Oscillation)** and the **Quasi-Biennial Oscillation (QBO)**.
 
