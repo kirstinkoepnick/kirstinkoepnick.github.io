@@ -28,7 +28,10 @@ In revision.
 *What are the climate factors that determined when the Laurentide Ice Sheet grew or retreated?*
 
 **Koepnick, K., Harnik, N., Randall, M., and Tziperman, E.**  
-*ENSO-QBO correlations: a robust dynamical coupling or a coincidence due to the short record?*
+*Are ENSO–QBO correlations robust? Insights from observations and CMIP6 control simulations*
+
+**Koepnick, K., Harnik, N., Randall, M., and Tziperman, E.**  
+*Can ENSO–QBO correlations arise mechanistically? Evidence from a simple dynamical model*
 
 **Koepnick, K., Zhu, J., Fu, M., and Tziperman, E.**  
 *How sensitive is surface mass balance to perturbations in albedo?*
