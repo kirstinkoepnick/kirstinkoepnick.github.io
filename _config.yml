@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Kirstin Koepnick"
 title_separator          : "-"
 name                     : &name "Kirstin Koepnick"
-description              : &description "PhD Candidate in Applied Mathematics at Harvard University, focusing on climate variability across scales"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate, Harvard University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://kirstinkoepnick.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "website_pic.png"
   name             : "Kirstin Koepnick"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Applied Mathematics at Harvard University, focusing on climate variability across scales."
+  bio              : "PhD Candidate, Harvard University, climate variability across scales."
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # URL
