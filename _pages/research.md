@@ -14,10 +14,11 @@ A common thread in my work is the use of **model hierarchies**: pairing complex 
 
 ## 1. Deglaciation and the Laurentide Ice Sheet
 
-One line of my research examines the **growth and retreat of the Laurentide Ice Sheet (LIS)** across the last glacial cycle, with a focus on the last deglaciation.
+One line of my research examines the **growth and retreat of icesheets** (particularyly the Laurentide Ice Sheet (LIS)) across the glacial cycles.
+![SMB schematic](/images/smb-schematic.png){: style="float:right; width:40%; max-width:300px; margin:0 0 1rem 1.5rem;" }
 
-- I compute the **surface mass balance (SMB)** of the LIS using the isotope-enabled iTRACE simulation and compare it with mass-loss rates inferred from geophysical reconstructions (e.g., ICE-6G).
-- I develop and compare melt parameterizations, including the role of **refreezing of snowmelt and rain**, and examine how SMB responds to changes in temperature, precipitation, and sea ice.
+- Generally, I examine how the **surface mass balance (SMB)** of various ice sheets responds to changes in albedo, temperature, precipitation, and sea ice cover.
+- I compute the SMB of the LIS using the isotope-enabled iTRACE simulation and compare it with mass-loss rates inferred from geophysical reconstructions (e.g., ICE-6G).
 - Ongoing work investigates **why the LIS grew near 80 ka but retreated rapidly near 12 ka**, disentangling the relative roles of insolation, sea-ice extent, circulation changes, and feedbacks tied to albedo and meltwater.
 
 Together, these projects aim to clarify the conditions under which ice-sheet evolution is primarily controlled by external forcing versus internal climate variability.
