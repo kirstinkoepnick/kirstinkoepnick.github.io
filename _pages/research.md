@@ -34,7 +34,7 @@ Together, these projects aim to clarify the conditions under which ice-sheet evo
 
 ---
 
-## 2. ENSO–QBO Interactions and Large-Scale Variability
+## 2. Pacific Teleconnections: ENSO–QBO interactions and large-Scale variability
 
 Another focus of my work is the interaction between **ENSO (El Niño–Southern Oscillation)** and the **Quasi-Biennial Oscillation (QBO)**.
 
@@ -50,6 +50,7 @@ Another focus of my work is the interaction between **ENSO (El Niño–Southern 
 
 - Using **reanalysis and CMIP6 preindustrial control runs**, I evaluate whether the observed ENSO–QBO correlation is evidence of a robust dynamical coupling or can be explained by statistical coincidence in a short record.
 - In companion work, I develop **simple dynamical models** to test candidate mechanisms, including QBO impacts on wave propagation, tropical upwelling, and ENSO amplitude and timing.
+- Separately, I advise an undergraduate research student working on machine learning techniques to classifying westerly wind bursts.
 
 This combination of data analysis and theory aims to determine when we can confidently claim a mechanistic teleconnection versus when apparent relationships are consistent with stochastic variability.
 
@@ -80,6 +81,7 @@ These projects connect high-latitude processes to longer-term evolution of ice s
 
 Across these projects, I use:
 
+- **Climate model simulations**: for my paleoclimate research, I run CESM2 with CAM5 physics adjusting topography and bathymetry for LGM and 12ka
 - **Climate model analysis:** CESM2, iTRACE, CMIP6 control runs  
 - **Simple and intermediate-complexity models:** conceptual climate and ice-sheet models, stochastic ENSO models  
 - **Numerical modeling:** diffusion and energy-balance models for subsurface temperature and SMB  
