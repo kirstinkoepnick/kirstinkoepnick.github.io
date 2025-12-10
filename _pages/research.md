@@ -38,7 +38,7 @@ Together, these projects aim to clarify the conditions under which ice-sheet evo
 
 Another focus of my work is the interaction between **ENSO (El Niño–Southern Oscillation)** and the **Quasi-Biennial Oscillation (QBO)**.
 
-<figure style="float:left; width:40%; max-width:300px; margin:0 0 0.5rem 1.5rem; text-align:center;">
+<figure style="float:left; width:40%; max-width:300px; margin:0 1.5rem 0.5rem 0.5rem; text-align:center;">
 
   <img src="/images/ENSO_schematic_large.png" alt="ENSO schematic" style="width:100%; height:auto;">
 
