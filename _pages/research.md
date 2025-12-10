@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My research focuses on **climate dynamics and variability** across the atmosphere, ocean, and cryosphere. I use a combination of theory, numerical modeling, climate model analysis, and simple dynamical models to understand how ice sheets, sea ice, and large-scale modes such as ENSO and the QBO interact with the broader climate system.
+My research focuses on **climate dynamics and variability** across the atmosphere, ocean, and cryosphere. I use a combination of theory, numerical modeling, climate model analysis, and simple dynamical models to understand how ice sheets, sea ice, and large-scale modes such as ENSO and the QBO interact with eachother and the broader climate system.
 
 A common thread in my work is the use of **model hierarchies**: pairing complex climate model output with idealized and conceptual models to isolate mechanisms, test hypotheses, and distinguish signal from noise in a highly variable climate system.
 
