@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ---
-# Research Overview
 
 My research focuses on **climate dynamics and variability** across the atmosphere, ocean, and cryosphere. I use a combination of theory, numerical modeling, climate model analysis (CESM2, CMIP, PMIP, iTRACE), and simple dynamical models to understand how ice sheets, sea ice, and large-scale modes such as ENSO and the QBO interact with the broader climate system.
 
