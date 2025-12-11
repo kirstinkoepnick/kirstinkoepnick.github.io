@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-# Manuscripts in preparation or submitted
+# Manuscripts in preparation
 
 **Koepnick, K., Zhu, J., Fu, M., and Tziperman, E.**  
 *What are the climate factors that determined when the Laurentide Ice Sheet grew or retreated?*
@@ -20,6 +18,10 @@ author_profile: true
 
 **Koepnick, K., Zhu, J., Fu, M., and Tziperman, E.**  
 *How sensitive is surface mass balance to perturbations in albedo?*
+
+---
+
+# Submitted Manuscripts
 
 ---
 
