@@ -25,11 +25,13 @@ author_profile: true
 
 ---
 
-# In Revision
+# In Revision 
 
 **Koepnick, K., Fu, M., and Tziperman, E.**  
 *Comparing the surface mass balance of the Laurentide Ice Sheet during the last deglaciation with geophysical reconstructions.*  
 In revision.
+
+---
 
 # Peer-reviewed articles
 
