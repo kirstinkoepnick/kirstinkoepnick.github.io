@@ -19,7 +19,7 @@ author_profile: true
 **Koepnick, K.**, Zhu, J., Fu, M., and Tziperman, E. 
 *How sensitive is surface mass balance to perturbations in albedo?*
 
-Posternak, M., and **Koepnick, K.**
+Posternack, M., and **Koepnick, K.**
 *Clustering the Southern Annular Mode using autoencoder neutral network.*
 
 ---
