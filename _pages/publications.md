@@ -21,6 +21,7 @@ author_profile: true
 
 Posternak, M., and **Koepnick, K.**
 *Clustering the Southern Annular Mode using autoencoder neutral network*
+
 ---
 
 # Submitted Manuscripts
