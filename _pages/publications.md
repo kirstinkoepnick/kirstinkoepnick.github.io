@@ -11,7 +11,7 @@ author_profile: true
 *What are the climate factors that determined when the Laurentide Ice Sheet grew or retreated?*
 
 **Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E.  
-*The seasonality of QBO peaks and ENSO-QBO interaction*
+*The seasonality of QBO peaks and ENSO-QBO interaction.*
 
 **Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E.
 *Can ENSO–QBO correlations arise mechanistically? Evidence from a simple dynamical model*
@@ -20,7 +20,7 @@ author_profile: true
 *How sensitive is surface mass balance to perturbations in albedo?*
 
 Posternak, M., and **Koepnick, K.**
-*Clustering the Southern Annular Mode using autoencoder neutral network*
+*Clustering the Southern Annular Mode using autoencoder neutral network.*
 
 ---
 
