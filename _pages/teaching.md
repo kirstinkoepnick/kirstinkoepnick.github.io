@@ -33,8 +33,8 @@ Currently, I am advising an undergraduate student at Harvard University on a pro
 
 I particularly enjoy helping students connect mathematical ideas to real-world climate and geophysical applications.
 
-<img src="/images/teaching-banner.png" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:0.5rem;">
+<img src="/images/EPS_131_photo.png" style="width:100%; max-height:320px; object-fit:cover; margin-bottom:0.5rem;">
 
 <figcaption style="text-align:right; font-size:0.8em; color:#666; margin-top:-1rem; margin-bottom:0.5rem;">
-Photo by Kirstin Koepnick
+EPS131 Class Field Trip to WHOI; Spring 2026
 </figcaption>
