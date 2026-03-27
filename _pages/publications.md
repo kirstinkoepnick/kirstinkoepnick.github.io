@@ -11,9 +11,6 @@ author_profile: true
 *What are the climate factors that determined when the Laurentide Ice Sheet grew or retreated?*
 
 **Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
-*The seasonality of QBO peaks and ENSO-QBO interaction.*
-
-**Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
 *Can ENSO–QBO correlations arise mechanistically? Evidence from a simple dynamical model*
 
 **Koepnick, K.**, Zhu, J., Fu, M., and Tziperman, E. <br>
@@ -25,6 +22,9 @@ Posternack, M., and **Koepnick, K.** <br>
 ---
 
 # Submitted Manuscripts
+
+**Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
+*The seasonality of QBO peaks and ENSO-QBO interaction.* _(submitted GRL)_
 
 ---
 
