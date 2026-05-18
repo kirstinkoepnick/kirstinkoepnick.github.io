@@ -16,15 +16,15 @@ author_profile: true
 **Koepnick, K.**, Zhu, J., Fu, M., and Tziperman, E. <br>
 *How sensitive is surface mass balance to perturbations in albedo?*
 
-Posternack, M., and **Koepnick, K.** <br>
-*Clustering the Southern Annular Mode using autoencoder neutral network.*
-
 ---
 
 # Submitted Manuscripts
 
 **Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
 *The seasonality of QBO peaks and ENSO-QBO interaction.* _(submitted GRL)_
+
+Posternack, M., and **Koepnick, K.** <br>
+*Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques.*
 
 ---
 
