@@ -24,7 +24,7 @@ author_profile: true
 *The seasonality of QBO peaks and ENSO-QBO interaction.* _(submitted GRL)_
 
 Posternack, M., and **Koepnick, K.** <br>
-*Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques.*
+*Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques.* _(submitted AGU Machine Learning and Computation)_
 
 ---
 
