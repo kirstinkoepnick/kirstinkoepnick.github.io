@@ -31,7 +31,7 @@ Posternack, M., and **Koepnick, K.** <br>
 *Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques.* _(In revision. AGU Machine Learning and Computation)_
 
 **Koepnick, K.**, Fu, M., and Tziperman, E. <br>
-*Comparing the surface mass balance of the Laurentide Ice Sheet during the last deglaciation with geophysical reconstructions.*  _(In revision AGU Paleoclimatology and Paleoceanography)_.
+*Comparing the surface mass balance of the Laurentide Ice Sheet during the last deglaciation with geophysical reconstructions.*  _(In revision. AGU Paleoclimatology and Paleoceanography)_.
 
 ---
 
