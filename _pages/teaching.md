@@ -5,9 +5,12 @@ title: "Teaching"
 author_profile: true
 ---
 
-I enjoy teaching and mentoring at the intersection of mathematics and climate science, and have worked with students at both Harvard University and Bates College.
+I enjoy teaching and mentoring at the intersection of mathematics and climate science, and have worked with various undergraduate students at Harvard University and other universities/colleges.
 
-Currently, I am advising an undergraduate student at Harvard University on a project working on using machine learning techniques to classify and understand westerly wind bursts.
+## Undergraduate Students
+- Jennifer Cox (Southern Illinois University Edwardsville; Summer 2026)
+- Orlando Putnam-Bailey (Columbia University; Summer 2026)
+- Maia Posternack (Harvard College; 2024-2026)
 
 ## Harvard University — Teaching Fellow
 
