@@ -37,11 +37,17 @@ redirect_from:
   Research assistant analyzing economic impacts of agricultural zoning changes in Auburn, ME.
 
 # Publications
-- **Koepnick, K., Fu, M., and Tziperman, E.**  
+- **Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E.
+  *The seasonality of QBO peaks and ENSO-QBO interaction*, in revision, GRL.
+- Posternack, M and **Koepnick, K**.
+  *Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques*, in revision, AGU Machine Learning and Computation.
+- **Koepnick, K.**, Fu, M., and Tziperman, E.
   *Comparing the surface mass balance of the Laurentide ice sheet during the last deglaciation with geophysical reconstructions*, in revision.
-- **Koepnick, K. and Tziperman, E.**  
+- **Koepnick, K.** and Tziperman, E.
   *Distinguishing between insolation-driven and phase-locked 100-kyr ice age scenarios using example models*,  
   *Paleoceanography and Paleoclimatology*, 39, e2023PA004739, 2024.
+
+## Submitted
 
 ## In Preparation
 - **Koepnick, K., Zhu, J., Fu, M., and Tziperman, E.**  
