@@ -23,8 +23,10 @@ redirect_from:
 - Clayton High School, Saint Louis, MO (2013–2014)
 
 # Research Experience
+- **Advisor for SPHEER REU Program**, Harvard University (Summer 2026)
+  Supervisor for two undergraduates investigating trends in the southern annular mode and sea ice variability
 - **Advisor for Undergraduate Research Project**, Harvard University (Spring 2025–Present)  
-  Supervising an undergraduate applying machine learning to classify westerly wind bursts in CESM2.
+  Supervising an undergraduate applying machine learning to classify the southern annular mode.
 - **Mathematics Department**, Bates College (Fall 2019–Spring 2022)  
   Honors thesis on fluid stirring on a sphere using braid groups and topological entropy.  
 - **Physics Department**, Bates College (Fall 2019–Spring 2022)  
