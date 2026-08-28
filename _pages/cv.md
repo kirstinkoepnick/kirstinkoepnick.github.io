@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](/files/KirstinKoepnickCV.pdf)  
+[Download my CV (PDF)](/files/KirstinKoepnick_CV.pdf)  
 
 # Education
 - **Ph.D. in Applied Mathematics**, Harvard University, Cambridge MA (2021–Present)  
