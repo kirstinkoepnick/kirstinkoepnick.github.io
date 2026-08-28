@@ -13,9 +13,11 @@ redirect_from:
 
 # Education
 - **Ph.D. in Applied Mathematics**, Harvard University, Cambridge MA (2021–Present)  
-  Working with Eli Tziperman on climate dynamics and ice–atmosphere–ocean interactions.
+  Dissertation: "Climate reorganizations across spatial and temporal timescales using hierarchical climate modeling"
+  Advisor: Dr. Eli Tziperman
 - **Advanced Climate Dynamics Courses**, Abisko, Sweden (Summer 2025)  
   Summer school focused on memory in the climate system.
+- **M.A. in Applied Mathematics**, Harvard University, Cambridge MA (2024)
 - **The Abdus Salam ICTP**, Trieste, Italy (Summer 2022)  
   Theory, mechanisms, and hierarchical modeling of climate dynamics: tropical oceans, ENSO, and teleconnections.
 - **B.A. in Physics & Mathematics**, Bates College, Lewiston ME (2017–2021)
@@ -87,13 +89,6 @@ redirect_from:
 - **Department of Energy SULI Internship**, Princeton University (Summer 2020)  
 - **Rawling’s Grant**, Bates College (Summer 2020)  
 - **Dean’s List**, Bates College (multiple terms 2018–2021)
-
-# Employment
-- **Yoga Instructor**, Down Under School of Yoga (2024–Present)
-- **AESOP Leader**, Bates College (2018–2021)
-- **Dance Stage Manager**, Bates College (2018–2019)
-- **Technical Intern**, Bates Dance Festival (2018)
-- **Scenic Designer and Carpenter**, Bates College (2017–2020)
 
 # References
 Available upon request.
