@@ -16,13 +16,13 @@ Photo by Lutz Koepnick
 
 # Kirstin Koepnick
 
-I am a PhD candidate in Applied Mathematics at Harvard University advised by Eli Tziperman. My research focuses on **climate dynamics** across the atmosphere, ocean, and cryosphere, using model hierarchies, numerical modeling, and climate data analysis.
+I am a PhD candidate in Applied Mathematics at Harvard University, advised by Eli Tziperman. I study **climate dynamics** across the atmosphere, ocean, and cryosphere using numerical models, model hierarchies, machine learning, and climate data analysis.
 
-I am particularly interested in how large-scale variability, sea ice, and ice sheets interact to shape climate across seasonal to glacial time scales. My work spans past and present climates, including the evolution of the Laurentide Ice Sheet during the last glacial cycle and the sensitivity of surface mass balance to climate forcing and feedbacks.
+I am interested in how interactions among climate processes give rise to variability, feedbacks, and climate change across seasonal to glacial time scales. My research spans **large-scale atmospheric dynamics and teleconnections, atmosphere–ocean–cryosphere interactions, and paleoclimate**, with the broader goal of understanding when and why the climate system responds differently to similar forcing.
 
 I am currently seeking **postdoctoral research opportunities beginning in fall 2027**.
 
-[Download my CV (PDF)](/files/KirstinKoepnickCV.pdf)  
+[Download my CV (PDF)](/files/KirstinKoepnick_CV.pdf)  
 Learn more about my [research](/research/) and [publications](/publications/).
 
 ## Research Interests
