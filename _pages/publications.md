@@ -21,11 +21,11 @@ author_profile: true
 
 # In Revision 
 
-**Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
+**Koepnick, K.**, Harnik, N., Randall, D., and Tziperman, E. <br>
 *The seasonality of QBO peaks and ENSO-QBO interaction.* _(In revision. GRL)_
 
 Posternack, M., and **Koepnick, K.** <br>
-*Identifying a Regime Structure and Transition State of the Southern Annular Mode using Clustering Autoencoder Techniques.* _(In revision. AGU Machine Learning and Computation)_
+*Beyond a Single Southern Annular Mode Pattern: Identifying Southern Hemisphere Circulation Classes with a Convolutional Autoencoder.* _(In revision. AGU Machine Learning and Computation)_
 
 ---
 
