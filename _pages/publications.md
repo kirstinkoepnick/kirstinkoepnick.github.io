@@ -10,7 +10,7 @@ author_profile: true
 **Koepnick, K.**, Zhu, J., Fu, M., and Tziperman, E. <br>
 *What are the climate factors that determined when the Laurentide Ice Sheet grew or retreated?*
 
-**Koepnick, K.**, Harnik, N., Randall, M., and Tziperman, E. <br>
+**Koepnick, K.**, Harnik, N., Randall, D., and Tziperman, E. <br>
 *Can ENSO–QBO correlations arise mechanistically? Evidence from a simple dynamical model*
 
 ---
